@@ -1,6 +1,6 @@
 # <span style="color: #1E90FF;">OGCRAFTNET Studios License Agreement</span>
 
-![OGCRAFTNET Studios Logo](https://media.forgecdn.net/avatars/thumbnails/1114/189/256/256/638667434078720747.jpg)
+
 
 Welcome to the **OGCRAFTNET Studios License Agreement**.
 
@@ -79,7 +79,7 @@ This Agreement constitutes the entire agreement between you and OGCRAFTNET Studi
 
 # <span style="color: #1E90FF;">OGCRAFTNET Studios Lizenzvereinbarung</span>
 
-![OGCRAFTNET Studios Logo](https://media.forgecdn.net/avatars/thumbnails/1114/189/256/256/638667434078720747.jpg)
+
 
 Willkommen zur **OGCRAFTNET Studios Lizenzvereinbarung**.
 
