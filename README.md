@@ -12,7 +12,7 @@ Welcome to the **OGCRAFTNET CLIENT**! This custom Minecraft launcher includes a 
 
 ### Installation via CurseForge
 
-1. **Download CurseForge**: If you don’t have it yet, download and install the CurseForge launcher from [here]([https://download.curseforge.com/](https://www.curseforge.com/minecraft/modpacks/ogcraftnet-client/install/5897573)).
+1. **Download CurseForge**: If you don’t have it yet, download and install the CurseForge launcher from [here](https://www.curseforge.com/minecraft/modpacks/ogcraftnet-client/install/5897573).
 2. **Create a Minecraft Profile**:
    - Open the CurseForge launcher.
    - Go to the Minecraft section and create a new Minecraft profile if you don’t have one.
@@ -36,7 +36,7 @@ Welcome to the **OGCRAFTNET CLIENT**! This custom Minecraft launcher includes a 
 
 ### Support
 
-If you have any questions or encounter issues, visit our [OGCRAFTNET Support Discord]([ttps://discord.gg/example-link](https://discord.gg/MuHvgV8USW)) for help and updates.
+If you have any questions or encounter issues, visit our [OGCRAFTNET Support Discord](https://discord.gg/MuHvgV8USW) for help and updates.
 
 Have fun playing!
 
@@ -78,6 +78,6 @@ Willkommen beim **OGCRAFTNET CLIENT**! Dieser benutzerdefinierte Minecraft-Launc
 
 ### Support
 
-Falls du Fragen hast oder auf Probleme stößt, besuche unseren [OGCRAFTNET Support Discord]([ttps://discord.gg/beispiel-link](https://discord.gg/MuHvgV8USW)) für Hilfe und Updates.
+Falls du Fragen hast oder auf Probleme stößt, besuche unseren [OGCRAFTNET Support Discord](https://discord.gg/MuHvgV8USW) für Hilfe und Updates.
 
 Viel Spaß im Spiel!
